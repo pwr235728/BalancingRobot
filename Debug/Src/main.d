@@ -30,6 +30,7 @@ Src/main.o: ../Src/main.c \
  C:/Users/Kurat/Documents/git_repos/balancing_f1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_cortex.h \
  C:/Users/Kurat/Documents/git_repos/balancing_f1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h \
  C:/Users/Kurat/Documents/git_repos/balancing_f1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_pwr.h \
+ C:/Users/Kurat/Documents/git_repos/balancing_f1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_tim.h \
  C:/Users/Kurat/Documents/git_repos/balancing_f1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h \
  C:/Users/Kurat/Documents/git_repos/balancing_f1/Inc/vector3.h \
  C:/Users/Kurat/Documents/git_repos/balancing_f1/Inc/quaternion.h \
@@ -98,6 +99,8 @@ C:/Users/Kurat/Documents/git_repos/balancing_f1/Drivers/STM32F1xx_HAL_Driver/Inc
 C:/Users/Kurat/Documents/git_repos/balancing_f1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h:
 
 C:/Users/Kurat/Documents/git_repos/balancing_f1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_pwr.h:
+
+C:/Users/Kurat/Documents/git_repos/balancing_f1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_tim.h:
 
 C:/Users/Kurat/Documents/git_repos/balancing_f1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h:
 
