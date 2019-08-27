@@ -16,6 +16,7 @@
 "Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_gpio.o"
 "Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_i2c.o"
 "Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.o"
+"Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o"
 "Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_utils.o"
 "Src/main.o"
 "Src/mpu6050.o"
